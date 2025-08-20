@@ -11,7 +11,6 @@ Text2MathVideoAI is an innovative application that combines the power of artific
 - **Text-to-Video Generation**: Convert mathematical problems into engaging video explanations
 - **AI-Powered Solutions**: Leverages advanced AI to understand and solve mathematical problems
 - **Step-by-Step Explanations**: Provides detailed, educational breakdowns of problem-solving processes
-- **CLI Interface**: Easy-to-use command-line interface for seamless integration
 - **Multiple Math Domains**: Supports various types of mathematical problems
 
 ## 🚀 Quick Start
@@ -111,18 +110,7 @@ Create a `.env` file in the root directory:
 
 ```env
 # API Configuration
-OPENAI_API_KEY=your_openai_api_key_here
-MANIM_PATH=/path/to/manim
-OUTPUT_DIR=./output
-
-# Server Configuration
-DEBUG=False
-LOG_LEVEL=INFO
-
-# Video Generation Settings
-VIDEO_QUALITY=high
-FRAME_RATE=30
-RESOLUTION=1920x1080
+GEMINI_API_KEY=your_gemini_api_key_here
 ```
 
 
