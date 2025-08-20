@@ -126,7 +126,7 @@ GEMINI_API_KEY=your_gemini_api_key_here
 ### Python Dependencies
 - Flask/FastAPI (web framework)
 - Gunicorn (WSGI server)
-- OpenAI API client
+- Gemini API client
 - Manim (mathematical animation engine)
 - NumPy, SciPy (mathematical computations)
 - Pillow (image processing)
