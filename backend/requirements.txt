@@ -18,3 +18,4 @@ colorama
 tqdm
 pycairo
 pango
+ffmpeg
